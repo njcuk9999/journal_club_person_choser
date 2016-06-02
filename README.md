@@ -2,9 +2,9 @@
 Program to select a person to present (randomly and with weightings)
 
 
-    ```python
-    run_jc(display=True):
-    ```
+```python
+run_jc(display=True):
+```
 
 ### Example 
 ```python
